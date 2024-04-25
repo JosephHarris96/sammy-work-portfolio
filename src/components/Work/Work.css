@@ -1,0 +1,31 @@
+.work_one {
+    color: black;
+    font-size: 50px;
+}
+
+.portfolio_item {
+    font-size: 15px;
+    font-weight: bolder;
+    height: 100%;
+    width: 100%;
+    text-align: right;
+    cursor: pointer;
+    position: relative;
+}
+
+
+.portfolio_item hr {
+    margin: 10px;
+    margin-left: 100px;
+    height: 2px;
+    background-color: #e2e2e2;
+    border: none;
+}
+
+.portfolio_item p {
+    transition: font-size 0.3s ease; 
+}
+
+.portfolio_item p:hover {
+    font-size: 18px; 
+}
