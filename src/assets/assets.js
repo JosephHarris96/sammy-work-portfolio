@@ -11,6 +11,8 @@ import sammy_photo_10 from './sammy_photo_10.png'
 import sammy_photo_11 from './sammy_photo_11.png'
 import sammy_photo_12 from './sammy_photo_12.png'
 import sammy_photo_13 from './sammy_photo_13.png'
+import linkedin from './linkedin.png'
+import instagram from './instagram.png'
 
 export const assets = {
     sammy_photo_1,
@@ -25,7 +27,9 @@ export const assets = {
     sammy_photo_10,
     sammy_photo_11,
     sammy_photo_12,
-    sammy_photo_13
+    sammy_photo_13,
+    linkedin,
+    instagram
 }
  
 export const portfolio_work = [

@@ -1,7 +1,15 @@
-.app-container {
-    padding-top: 100%; /* Adjust as needed */
+/* App.css */
+
+.orange-circles {
+    position: relative;
   }
   
-  .work-container {
-    margin-top: 20px; /* Adjust as needed */
+  .orange-dot {
+    position: absolute;
+    width: 100px; 
+    height: 100px; 
+    background-color: orange;
+    border-radius: 50%;
+    z-index: -1;
   }
+  

@@ -1,6 +1,9 @@
+
+
 .work_one {
     color: black;
     font-size: 50px;
+    
 }
 
 .portfolio_item {
@@ -11,15 +14,16 @@
     text-align: right;
     cursor: pointer;
     position: relative;
+    padding-right: 20px;
 }
 
 
 .portfolio_item hr {
     margin: 10px;
-    margin-left: 100px;
     height: 2px;
     background-color: #e2e2e2;
     border: none;
+    
 }
 
 .portfolio_item p {

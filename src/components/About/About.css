@@ -1,0 +1,25 @@
+.about {
+    margin-bottom: 20%;
+}
+
+.about-heading {
+    padding-left: 20%;
+    margin-bottom: 5%;
+}
+
+.about-heading h1 {
+    margin-top: 20vh; 
+}
+
+.about-me-content {
+    padding-left: 40%;
+}
+
+.about-heading span {
+    color: rgb(255, 31, 31);
+}
+
+.about-me-paragraph-one {
+    font-size: 20px;
+    font-weight: bolder;
+}

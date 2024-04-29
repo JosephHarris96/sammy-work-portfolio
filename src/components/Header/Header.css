@@ -5,3 +5,9 @@
     padding: 10px;
     font-size: 20px;
 }
+
+.header_name h2 {
+    font-size: 15px;
+    position: absolute;
+    top: 80px; 
+}
