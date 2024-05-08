@@ -5,6 +5,7 @@ import Work from "../src/components/Work/Work";
 import Footer from "./components/Footer/Footer";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
+
 // import Navbar from "./components/Navbar/Navbar";
 
 function Dot({ top, left }) {
@@ -42,7 +43,6 @@ function App() {
         {dots.map((dot, index) => (
           <Dot key={index} top={dot.top} left={dot.left} />
         ))}
-     
       <Work />
       <Contact/>
       <Footer />

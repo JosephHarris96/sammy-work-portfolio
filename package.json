@@ -1,5 +1,3 @@
-
-
 {
   "name": "sammy-project-vite",
   "private": true,
@@ -12,8 +10,8 @@
     "preview": "vite preview",
     "start": "node server.js"
   },
-
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "mysql": "^2.18.1",

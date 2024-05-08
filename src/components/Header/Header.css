@@ -4,6 +4,7 @@
     left: 0;
     padding: 10px;
     font-size: 20px;
+    z-index: 1;
 }
 
 .header_name h2 {

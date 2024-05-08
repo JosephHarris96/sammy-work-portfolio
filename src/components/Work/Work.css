@@ -20,18 +20,33 @@
 
 .portfolio-image img {
     width: 100%;
-    height: auto; /* Ensure the aspect ratio is maintained */
+    height: auto; 
     object-fit: cover; 
 }
 
 .portfolio-image p {
+    font-size: 2em;
+    font-weight: 700;
+    padding-left: 20%;
+    margin-bottom: 5%;
+    margin-top: 30px;
+}
+
+.portfolio-image span {
+    color: orange;
+}
+
+
+/* .portfolio-text p {
     z-index: 1;
     position: absolute;
     font-size: 3em;
     padding-left: 20%;
     margin-bottom: 5%;
     font-weight: 700;
-}
+} */
+
+
 
 
 /* .portfolio_item hr {

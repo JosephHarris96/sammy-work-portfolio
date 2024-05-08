@@ -34,31 +34,31 @@ export const assets = {
  
 export const portfolio_work = [
     {
-        portfolio: "// Topshop",
+        portfolio: " Topshop",
         portfolio_image: sammy_photo_1
     },
     {
-        portfolio: "// Rebel Mag",
+        portfolio: " Rebel Mag",
         portfolio_image: sammy_photo_2
     },
     {
-        portfolio: "// Red Fur Coat",
+        portfolio: " Red Fur Coat",
         portfolio_image: sammy_photo_3
     },
     {
-        portfolio: "// Heretic Nine",
+        portfolio: " Heretic Nine",
         portfolio_image: sammy_photo_4
     },
     {
-        portfolio: "// Topshop 2",
+        portfolio: " Topshop 2",
         portfolio_image: sammy_photo_5
     },
     {
-        portfolio: "// Yoko",
+        portfolio: " Yoko",
         portfolio_image: sammy_photo_6
     },
     {
-        portfolio: "// Asos Denim",
+        portfolio: " Asos Denim",
         portfolio_image: sammy_photo_7
     },
     {
@@ -66,23 +66,23 @@ export const portfolio_work = [
         portfolio_image: sammy_photo_8
     },
     {
-        portfolio: "// Luca for IMG",
+        portfolio: " Luca for IMG",
         portfolio_image: sammy_photo_9
     },
     {
-        portfolio: "// Weekday for Asos",
+        portfolio: " Weekday for Asos",
         portfolio_image: sammy_photo_10
     },
     {
-        portfolio: "// MOB Journal Mag",
+        portfolio: " MOB Journal Mag",
         portfolio_image: sammy_photo_11
     },
     {
-        portfolio: "// Topshop Mens",
+        portfolio: " Topshop Mens",
         portfolio_image: sammy_photo_12
     },
     {
-        portfolio: "// Rebel Mag 2",
+        portfolio: " Rebel Mag 2",
         portfolio_image: sammy_photo_13
     }
 ]
